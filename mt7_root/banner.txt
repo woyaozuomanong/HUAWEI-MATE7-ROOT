@@ -1,0 +1,23 @@
+88      a8P   88888888888  88888888888  888b      88  
+88    ,88'    88           88           8888b     88  
+88  ,88"      88           88           88 `8b    88  
+88,d88'       88aaaaa      88aaaaa      88  `8b   88  
+8888"88,      88"""""      88"""""      88   `8b  88  
+88P   Y8b     88           88           88    `8b 88  
+88     "88,   88           88           88     `8888  
+88       Y8b  88888888888  88888888888  88      `888  
+
+Huawei Ascend Mate 7 root utility
+                                                      
+Present by Keen Team:
+      Liang Chen, flanker017 - CVE-2014-7911 exploit
+      idl3r - Kernel vulnerability and exploit
+
+Special thanks to:
+      Yaron Lavi and Nadav Markus from Palo Alto Networks
+      Chainfire for SuperSU
+      KingRoot (www.kingroot.net) for testing devices
+
+Tested on MT7-TL10 and MT7-CL00 China Domestic edition with B122 SP06 (2014/12/30)
+May or may not work on international editions
+
